@@ -1,0 +1,25 @@
+baseurl: https://example.org/
+title: Creative portfolio
+theme: hugo-creative-portfolio-theme
+languageCode: en-us
+disqusShortname: ''
+googleAnalytics: ''
+params:
+  copyright: '&copy;2024 Melissa Krough'
+  description: a platform for displaying my ongoing data science portfolio
+  email: mevilardo@gmail.com
+  navlinks:
+    - home: yes
+      name: Home
+      url: portfolio/
+    - name: About
+      url: about/
+    - name: Get in touch
+      url: contact/
+  sidebarAbout:
+    - I am a junior data analyst.
+    - Originally from Houston, currently based in Los Angeles.
+  social:
+    github: https://github.com/mkrough
+    linkedin: http://linkedin.com/in/melissa-krough
+  style: default
